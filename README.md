@@ -17,4 +17,4 @@ Link API:
 9. Who Am I (GET) = https://challange8-bhadrika-wira-fsw4.herokuapp.com/v1/auth/whoami
 
 # COVERAGE
-![image](https://user-images.githubusercontent.com/33855330/173019662-a41b303e-0bd2-4942-804e-92b0d760ed16.png)
+![image](https://user-images.githubusercontent.com/33855330/173060357-af3da6a8-cbbd-4482-85f5-e40f462d4f65.png)
